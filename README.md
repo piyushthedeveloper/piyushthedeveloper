@@ -72,7 +72,6 @@ Multi-tenant expense platform (Spring Boot + JPA + PostgreSQL) with tenant-isola
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushthedeveloper&theme=react-dark" />
   <br>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushthedeveloper" height="165" />
 </p>
 
 ### 📫 Reach me
