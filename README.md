@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About me
 
-I'm an engineer with **4.8+ years** building high-throughput microservices in Java (8–21) and Spring Boot, across HRMS, ed-tech, and enterprise PLM platforms. I've led teams, architected event-driven systems with Kafka, and shipped cloud-native services on AWS — with a consistent focus on reliability, performance, and shaving incident response times down to minutes, not hours.
+I'm an engineer with **5 years** building high-throughput microservices in Java (8–21) and Spring Boot, across HRMS, ed-tech, and enterprise PLM platforms. I've led teams, architected event-driven systems with Kafka, and shipped cloud-native services on AWS — with a consistent focus on reliability, performance, and shaving incident response times down to minutes, not hours.
 
 ### 🏢 Where I've built things
 
