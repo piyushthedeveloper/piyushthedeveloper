@@ -66,14 +66,6 @@ Multi-tenant expense platform (Spring Boot + JPA + PostgreSQL) with tenant-isola
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushthedeveloper&theme=react-dark" />
-  <br>
-  <br>
-</p>
-
 ### 📫 Reach me
 
 [LinkedIn](https://linkedin.com/in/piyushthedeveloper) • guptapiyush238@gmail.com
